@@ -1,0 +1,5 @@
+print('{:^50}'.format('test'))
+print('{:.5}'.format('abcdefgha'))
+print('{:8d}'.format(60))
+print('{:06.2f}'.format(4.20214121))
+print('{:{align}{width}}'.format('asdasfa', align='^', width='50'))
