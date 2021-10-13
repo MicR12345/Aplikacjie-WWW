@@ -46,7 +46,7 @@ lista2 = lista.copy()
 lista2.sort(reverse=True)
 print(lista2)
 
-studenci = [("Michał Ruść",151160) , ("Adfas Fsafas",1324141)]
+studenci = [("Michał Ruść",151160) , ("Adfas Fsafas",1324141), ("Aawda Dsasdfaas",1324124) , ("Cdfas Fswdwaws",1351241), ("Ydfas Fdawdfafgqaws",412341)]
 print(studenci)
 slownik = dict(studenci)
 print(slownik)
